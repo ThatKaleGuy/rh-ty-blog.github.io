@@ -6,3 +6,6 @@ Guita
 
 19/11/25:
 I enjoyed yesterday, i managed to code a deck of cards, its absolutely scuffed, essentially being a random number generator and 52 if statements in a row but it works so im quite happy with it, im looking forward to the engineering task later on at 14:00 so that should be fun
+
+20/11/25
+Yesterday was fun, we got to learn about the Bash language which was a lot harder to grasp than Python but it was nice to be able to see the actual differences between the two and kind of get a feel for just how different two coding languages can be even if theyre just doing the same thing, i enjoyed it quite a lot. There was a presentation on the history of cloud computing which was fun as well, i enjoyed learning about it because its kind of something i dont really tend to think about, just use because its just a sort of constant in modern living so actually getting to see what goes into it was nice. At the end of the day we had an engineering task to try and build a rollercoaster out of paper straws and tape, it was quite difficult but it was fun to try and organise building something like that with a group of people as opposed to just trying to build it on our own. 
